@@ -1,4 +1,5 @@
-# Projet P8 - Analyse des ventes et gestion des stocks (Bottleneck)
+# Projet P8 - Analyse des ventes et gestion des stocks ![Logo Bottleneck](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/logo.png)
+
 
 ## 🎯 Objectifs
 Ce projet répond à une mission confiée par l’entreprise **Bottleneck**.  
