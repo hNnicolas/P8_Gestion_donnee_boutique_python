@@ -49,3 +49,47 @@ Produits avec stocks critiques
 Produits avec prix aberrants
 
 Produits sans correspondance ERP
+
+### 1. Top 50 produits par CA et CA cumulatif (règle 20/80)
+![Top 50 CA](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/plots/top50_ca.png)
+*Top 50 produits triés par chiffre d’affaires et courbe du CA cumulé (ligne rouge).*
+
+*(Variante relative)*  
+`![Top 50 CA](./plots/top50_ca.png)`
+
+---
+
+### 2. Boxplot des prix
+![Boxplot des prix](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/plots/boxplot_prix.png)
+*Repère les valeurs aberrantes de prix (outliers) — utile pour détecter des erreurs de saisie ou produits mal tarifés.*
+
+*(Variante relative)*  
+`![Boxplot des prix](./plots/boxplot_prix.png)`
+
+---
+
+### 3. Distribution des taux de marge
+![Distribution des marges](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/plots/hist_marge.png)
+*Histogramme de la distribution des taux de marge ; permet d’identifier dispersion et cas extrêmes.*
+
+*(Variante relative)*  
+`![Distribution des marges](./plots/hist_marge.png)`
+
+---
+
+### 4. Distribution des mois de stock
+![Distribution mois de stock](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/plots/hist_stock.png)
+*Histogramme du nombre de mois de stock par produit — identifie produits à rotation lente ou risque de rupture.*
+
+*(Variante relative)*  
+`![Distribution mois de stock](./plots/hist_stock.png)`
+
+---
+
+### 5. Heatmap des corrélations
+![Heatmap corrélations](https://github.com/hNnicolas/P8_Gestion_donnee_boutique_python/blob/main/plots/heatmap_corr.png)
+*Carte de corrélations entre variables clés (prix, prix d’achat, stock, CA, marges) — utile pour prioriser les analyses.*
+
+*(Variante relative)*  
+`![Heatmap corrélations](./plots/heatmap_corr.png)`
+
