@@ -20,9 +20,11 @@ Une **présentation PowerPoint** est également fournie pour le **CODIR**.
 
 ## ⚙️ Prérequis
 
-- **Python** 3.9 ou plus
-  pip install -r requirements.txt
-
+Python 3.9 ou plus
+  ```bash
+ pip install -r requirements.txt
+```
+ 
 ## ▶️ Lancer l'analyse
 
 Se placer dans le dossier scripts/ :
